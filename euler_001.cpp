@@ -12,4 +12,6 @@ int main()
     }
 
     std::cout << "The sum of all multiples of 3 or 5 below 1000 is " << sum << std::endl;
+
+    return 0;
 }
